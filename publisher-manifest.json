@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a3254b1e73c6c0eb428c46a3",
+  "owner": "c7emb7unx",
+  "repo": "page-c548dbf223153fe3146df1e9",
+  "title": "机场榜单Top1",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c548dbf223153fe3146df1e9",
+      "a": "v2SpaceX",
+      "b": "机场榜单Top1",
+      "entity": "v2SpaceX",
+      "brand": "机场榜单Top1",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5389433cf7c52229198a6062a11ba7084a818303a131c0b9d4f6656417c70f4b",
+      "content": {
+        "primary_entity": "v2SpaceX",
+        "keyword1": "v2SpaceX",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "从套餐开始",
+          "AI_DESCRIPTION": "，主打多设备订阅与游戏加速优化，提供基础版、旗舰版和团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，配 VIP 专属高带宽节点。客户端覆盖常见桌面和移动平台，订阅配置步骤不复杂。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量和订阅周期整理三点。",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数选档更合理。",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TEXT_3": "旗舰版带 IPLC 专线游戏加速优化，团队版配 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TITLE_3": "线路与带宽",
+          "AI_GUIDE_INTRO": "三步完成选择与配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "v2SpaceX 提供多档海外加速订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备，适合个人、家庭到团队场景按需选择。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "支持多设备在线",
+          "AI_HIGHLIGHT_3": "年付更省费用",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、旗舰版 ¥35、团队版 ¥85，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看常用设备数量和月流量需求，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统和同时在线数量是否匹配。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅，完成设置后即可使用对应套餐服务。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "v2SpaceX 套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版够日常使用吗？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量并支持 3 台设备，适合浏览网页、收发邮件和轻度流媒体，用量较大的用户可考虑旗舰版。",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版的主要区别？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量、5 台设备并含 IPLC 专线；团队版每月 1000GB 流量、20 台设备并含 VIP 高带宽节点与专属客户经理。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版按月 ¥15，按年 ¥150；旗舰版按月 ¥35，按年 ¥350；团队版按月 ¥85，按年 ¥850。按年付相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "订阅支持哪些类型客户端？",
+          "AI_FAQ_ANSWER_4": "可根据 Windows、macOS、Android、iOS 等常见平台选择对应客户端，具体可用客户端以各平台文档说明为准。",
+          "AI_FAQ_QUESTION_5": "设备数量如何计算？",
+          "AI_FAQ_ANSWER_5": "按同时在线设备数量计算，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量可升级套餐或减少同时连接设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2cbfb453c1fbf56648d37d65be2b3578de2a8b0c2eba446b1d5073ec609606b5",
+    "sitemap.xml": "b394c6a21ad9453d9424788a6bd5b41b013e77ec97e6c01341a90e5a88d21a11",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c8961bf2ea673f41290154a15f045599906734f38ead66efe317d0c444f43b72"
+}
